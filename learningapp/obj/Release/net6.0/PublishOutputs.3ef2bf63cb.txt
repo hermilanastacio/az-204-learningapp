@@ -1,0 +1,7 @@
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\learningapp.exe
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\appsettings.Development.json
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\appsettings.json
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\learningapp.dll
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\learningapp.deps.json
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\learningapp.runtimeconfig.json
+D:\Work\Educational\AZ-204\learningapp\bin\Publish\learningapp.pdb
